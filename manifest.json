@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "Tab Killer",
+    "version": "1.2",
+    "description": "Advanced tab management with statistics",
+    "permissions": ["tabs", "storage"],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": "icon.png"
+    },
+    "icons": {
+      "128": "icon.png"
+    }
+  }
